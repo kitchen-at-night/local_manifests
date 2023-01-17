@@ -7,5 +7,5 @@
   <project name="kitchen-at-night/android_vendor_xiaomi_surya" path="vendor/xiaomi/surya" remote="github" revision="lineage-20.0"/>
   
   <!-- Kernel -->
-  <project name="Stratosphere-Kernel/android_kernel_xiaomi_surya" path="kernel/xiaomi/surya" remote="github" revision="staging/LA.UM.9.x" />
+ <project name="kitchen-at-night/android_kernel_xiaomi_surya" path="kernel/xiaomi/surya" remote="github" revision="lineage-20"/>
 </manifest>

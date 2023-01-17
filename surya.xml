@@ -4,7 +4,7 @@
   <project name="kitchen-at-night/test_android_device_xiaomi_surya" path="device/xiaomi/surya" remote="github" revision="pyro"/>
   
   <!-- Vendor -->
-  <project name="kitchen-at-night/proprietary_vendor_xiaomi_surya" path="vendor/xiaomi/surya" remote="github" revision="lineage-20"/>
+  <project name="kitchen-at-night/test_android_vendor_xiaomi_surya" path="vendor/xiaomi/surya" remote="github" revision="snow"/>
   
   <!-- Kernel -->
   <project name="kitchen-at-night/test_android_kernel_xiaomi_surya" path="kernel/xiaomi/surya" remote="github" revision="13"/>

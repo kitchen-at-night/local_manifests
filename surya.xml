@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Device tree -->
-  <project name="kitchen-at-night/test_android_device_xiaomi_surya" path="device/xiaomi/surya" remote="github" revision="spark"/>
+  <project name="kitchen-at-night/test_android_device_xiaomi_surya" path="device/xiaomi/surya" remote="github" revision="pyro"/>
   
   <!-- Vendor -->
   <project name="kitchen-at-night/proprietary_vendor_xiaomi_surya" path="vendor/xiaomi/surya" remote="github" revision="lineage-20"/>

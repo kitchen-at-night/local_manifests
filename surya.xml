@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Device tree -->
-  <project name="kitchen-at-night/kenny_android_device_xiaomi_surya" path="device/xiaomi/surya" remote="github" revision="lineage-20"/>
+  <project name="kitchen-at-night/android_device_xiaomi_surya" path="device/xiaomi/surya" remote="github" revision="pyro"/>
   
   <!-- Vendor -->
-  <project name="kitchen-at-night/kenny_vendor_xiaomi_surya" path="vendor/xiaomi/surya" remote="github" revision="lineage-20"/>
+  <project name="kitchen-at-night/android_vendor_xiaomi_surya" path="vendor/xiaomi/surya" remote="github" revision="lineage-20.0"/>
   
   <!-- Kernel -->
- <project name="kitchen-at-night/kenny_android_kernel_xiaomi_surya" path="kernel/xiaomi/surya" remote="github" revision="lineage-20"/>
+ <project name="kitchen-at-night/android_kernel_xiaomi_surya" path="kernel/xiaomi/surya" remote="github" revision="13"/>
 </manifest>

@@ -10,6 +10,8 @@
   <project name="kitchen-at-night/android_kernel_xiaomi_surya" path="kernel/xiaomi/surya" remote="github" revision="lineage-20"/>
   
   <!-- MiuiCam -->
-  <project name="kitchen-at-night/vendor_xiaomi_miuicamera" path="kernel/xiaomi/surya" remote="github" revision="master"/>
+  <project name="kitchen-at-night/vendor_xiaomi_miuicamera" path="vendor/xiaomi/miuicamera" remote="github" revision="master"/>
   
+  <project name="kitchen-at-night/android_hardware_lineage_compat" path="hardware/lineage/compat" remote="github" revision="lineage-20.0"/>
+ 
 </manifest>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Device tree -->
-  <project name="kitchen-at-night/new_android_device_xiaomi_surya" path="device/xiaomi/surya" remote="github" revision="superior"/>
+  <project name="kitchen-at-night/android_device_xiaomi_surya" path="device/xiaomi/surya" remote="github" revision="lineage-20"/>
   
   <!-- Vendor -->
-  <project name="kitchen-at-night/new_android_vendor_xiaomi_surya" path="vendor/xiaomi/surya" remote="github" revision="lineage-20"/>
-  
+  <project name="kitchen-at-night/android_vendor_xiaomi_surya" path="vendor/xiaomi/surya" remote="github" revision="lineage-20"/>
+
   <!-- Kernel -->
-  <project name="kitchen-at-night/new_android_kernel_xiaomi_surya" path="kernel/xiaomi/surya" remote="github" revision="lineage-20"/>
+  <project name="kitchen-at-night/android_kernel_xiaomi_surya" path="kernel/xiaomi/surya" remote="github" revision="lineage-20"/>
 
 </manifest>
